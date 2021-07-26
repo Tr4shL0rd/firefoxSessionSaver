@@ -1,0 +1,4 @@
+google.com
+https://youtube.com
+twitter.com/
+example.com:80
